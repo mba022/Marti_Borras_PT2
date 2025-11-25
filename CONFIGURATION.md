@@ -1,8 +1,6 @@
-  # Demostració del funcionament #
+  # Demostració del funcionament # 
+  ---
   ## Creació d’usuaris ##
-  Al iniciar sesio
-   
-  ## Assignació de rols i permisos ##
   
   1 Primer clica les tres barres de dalt a la dreta, en el menu desplegable buscas "Cuentas".
   
@@ -21,14 +19,28 @@
 ---
 <img width="1854" height="1001" alt="Captura desde 2025-11-18 14-33-56" src="https://github.com/user-attachments/assets/f1284291-7bfc-4de1-91c8-4a3551aeb9b6" />
 
----
+--- 
+## Assignació de rols i permisos ##
 ### Permisos i creacio d'arxius compartits amb jerarquia ###
 - 1 crear la carpeta, en la paguina principal despres d'iniciar nextcloud, el boto (+nuevo), crear carpeta i posar el nom.
 ---
  <img width="927" height="1001" alt="Captura desde 2025-11-18 14-11-50" src="https://github.com/user-attachments/assets/7c50636f-ae38-4117-8e26-0fde50157464" />
+ 
+---
+ 
+<img width="927" height="1001" alt="Captura desde 2025-11-18 14-14-33" src="https://github.com/user-attachments/assets/321b3b9d-d859-4440-b5e2-4763344087cb" />
+
+---
+  2 Ara hem d'afegir a el usuaris per poder assignar que permisos tenen.
+  
+<img width="927" height="1001" alt="Captura desde 2025-11-18 14-15-43" src="https://github.com/user-attachments/assets/c9323674-ca16-47a8-8752-f35edeb63e8f" />
 
  ---
-   ## Administració d’arxius ##
+ 3 posa un arxiu dintre de la carpeta i assigna (del arxiu concret) els permisos clicant amb la dreta.
+ <img width="927" height="1001" alt="Captura desde 2025-11-18 14-13-47" src="https://github.com/user-attachments/assets/5724322b-2fcc-4efa-9341-2b980278be4c" />
+
+ ---
+   # Administració d’arxius #
     
 
    ## Accés des d’una màquina qualsevol de la xarxa ##
@@ -37,6 +49,4 @@
         
 ---
 
-<img width="927" height="1001" alt="Captura desde 2025-11-18 14-15-43" src="https://github.com/user-attachments/assets/c9323674-ca16-47a8-8752-f35edeb63e8f" />
-<img width="927" height="1001" alt="Captura desde 2025-11-18 14-13-47" src="https://github.com/user-attachments/assets/5724322b-2fcc-4efa-9341-2b980278be4c" />
-<img width="927" height="1001" alt="Captura desde 2025-11-18 14-14-33" src="https://github.com/user-attachments/assets/321b3b9d-d859-4440-b5e2-4763344087cb" />
+
