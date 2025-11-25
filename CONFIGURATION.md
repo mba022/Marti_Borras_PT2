@@ -4,14 +4,34 @@
   Al iniciar sesio
    
   ## Assignació de rols i permisos ##
-  1
-<img width="766" height="1001" alt="Captura desde 2025-11-18 14-24-31" src="https://github.com/user-attachments/assets/3b2f3722-0fc7-42f0-8f29-80590fb62e66" />
+  
+  1 Primer clica les tres barres de dalt a la dreta, en el menu desplegable buscas "Cuentas".
+  
+  ---
+<img width="800" height="800" alt="Captura desde 2025-11-18 14-24-31" src="https://github.com/user-attachments/assets/3b2f3722-0fc7-42f0-8f29-80590fb62e66" />
+
+---
+  2 Despres clica el boto de "nuevo usuario"/"Cuenta nueva" omple els parametres com necesitis.(un admin amb acces a TOT),(un visualitzador),(Un editor)
+
+---
 <img width="766" height="1001" alt="Captura desde 2025-11-18 14-24-43" src="https://github.com/user-attachments/assets/bd86c32e-343c-44d6-a60f-bbdec9dbcd0c" />
+
+---
+ 3 Finalment, ja creats els tres comptes els assignarem permisos.
+
+---
 <img width="1854" height="1001" alt="Captura desde 2025-11-18 14-33-56" src="https://github.com/user-attachments/assets/f1284291-7bfc-4de1-91c8-4a3551aeb9b6" />
 
+---
+### Permisos i creacio d'arxius compartits amb jerarquia ###
+- 1 crear la carpeta, en la paguina principal despres d'iniciar nextcloud, el boto (+nuevo), crear carpeta i posar el nom.
+---
+ <img width="927" height="1001" alt="Captura desde 2025-11-18 14-11-50" src="https://github.com/user-attachments/assets/7c50636f-ae38-4117-8e26-0fde50157464" />
+
+ ---
    ## Administració d’arxius ##
     
- <img width="927" height="1001" alt="Captura desde 2025-11-18 14-11-50" src="https://github.com/user-attachments/assets/7c50636f-ae38-4117-8e26-0fde50157464" />
+
    ## Accés des d’una màquina qualsevol de la xarxa ##
    Configurar l’accés remot a ownCloud des d’un altre dispositiu.
         (Extra) Configurar l’accés a les clouds dels teus dos companys i documentar-ho.
