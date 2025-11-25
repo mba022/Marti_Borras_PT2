@@ -41,12 +41,19 @@
 
  ---
    # Administració d’arxius #
-    
+  1 assignacio de permisos (rols) en la carpeta compartida. "al assignar-hoen la carpeta ens permet configuraro 1 egada només, si despres volls pots cambiar els permisos de cert arxiu o cert usuari.
+  
+  ---
+<img width="1787" height="967" alt="Captura desde 2025-11-25 14-22-15" src="https://github.com/user-attachments/assets/ba7cefce-a74b-4c2d-bfb6-08543ef7a78a" />
+
+<img width="1787" height="967" alt="Captura desde 2025-11-25 14-22-54" src="https://github.com/user-attachments/assets/4500d743-dc5a-4f73-ad55-6f1224b3776e" />
+
+<img width="1787" height="967" alt="Captura desde 2025-11-25 14-22-43" src="https://github.com/user-attachments/assets/d7a24aa5-b506-4e16-a908-f040fe67ecb9" />
 
    ## Accés des d’una màquina qualsevol de la xarxa ##
-   Configurar l’accés remot a ownCloud des d’un altre dispositiu.
-        (Extra) Configurar l’accés a les clouds dels teus dos companys i documentar-ho.
-        
+   Per a configurar l’accés remot a ownCloud des d’un altre dispositiu, pots enviarte un correu electronic amb un link compartit de la carpeta.
+   <img width="1787" height="967" alt="Captura desde 2025-11-25 14-24-57" src="https://github.com/user-attachments/assets/f8ebbcd2-18ee-479a-ad5f-043b0402870b" />
+
 ---
 
 
