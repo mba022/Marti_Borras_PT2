@@ -51,9 +51,36 @@
 <img width="1787" height="967" alt="Captura desde 2025-11-25 14-22-43" src="https://github.com/user-attachments/assets/d7a24aa5-b506-4e16-a908-f040fe67ecb9" />
 
    ## Accés des d’una màquina qualsevol de la xarxa ##
-   Per a configurar l’accés remot a ownCloud des d’un altre dispositiu, pots enviarte un correu electronic amb un link compartit de la carpeta.
+  1 Per a configurar l’accés remot a ownCloud des d’un altre dispositiu, pots enviarte un correu electronic amb un link compartit de la carpeta.
    <img width="1787" height="967" alt="Captura desde 2025-11-25 14-24-57" src="https://github.com/user-attachments/assets/f8ebbcd2-18ee-479a-ad5f-043b0402870b" />
 
 ---
+2 obres el terminal de la maquina virtual, poses (ip -c a) et mostra la ip i mascara, les trajes de "red".
 
+2.1 busca la ip (esta en color lila), copiala i gardala per despres.
 
+2.2 posa el comando (sudo mkdir -p /var/www/domini.local), es un que ja hauries de tenir.
+
+2.3 posa aquest altre comando (sudo nano /etc/apache2/sites-available/domini.local.conf), t'ha dobrir una pantalla nova la qual ha de (A estar omplerta, la qual cosa mira el punt 3A) (B estar buida, mirar punt 3B)
+
+3 Ara configurarem que poguem accedir a (NEXTCLOUD) de manera remota sempre que tinguem la IP del (nextcloud) objectiu.
+
+3A Hauries de veure una cosa similar a aquesta. 
+
+<img width="861" height="969" alt="imatge" src="https://github.com/user-attachments/assets/b45fc63a-eb85-4134-9bb1-e9b817388f07" />
+
+En la linea que posa "ServerName" o en la de "ServerAlias" (preferiblement en la primera) cambies el 'www.domini.local' a la IP guardada previaent **la IP de on obres el terminal/la maquina Virtual**
+
+3.1.A Hauries de veure una cosa similar a aquesta.
+
+<img width="1788" height="445" alt="imatge" src="https://github.com/user-attachments/assets/06a12b16-8a51-45e6-8062-9007ba9e4f58" />
+
+En l'apartat "trusted_domains" poses ('www.domini.local', 'IP' de la maquina DESTINATARIA) no la maquina en la qual esta el terminal.
+
+---
+
+3B Si no tens res o l'acabes de crear despres de un reset, pots simplement copiar tal qual les imatges **asegurante de que poses les IP's correctes en el teu cas** **recorda que el "ServerAdmin" és el nom del ordinador posa el teu**
+
+---
+
+I ja finalment pots posar la Ip en cualsevol navegador i entrar a la paguina (de inici) de NextCloud.**pots registrarte de nou o posar la teva altre compte**
