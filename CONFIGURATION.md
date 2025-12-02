@@ -31,7 +31,7 @@
 <img width="927" height="1001" alt="Captura desde 2025-11-18 14-14-33" src="https://github.com/user-attachments/assets/321b3b9d-d859-4440-b5e2-4763344087cb" />
 
 ---
-  2 Ara hem d'afegir a el usuaris per poder assignar que permisos tenen.
+  2 Ara hem d'afegir a el usuaris per poder assignar que permisos tenen, un cop estem dintre la carpeta li donem al simbol de +persona, li anem posant en el buscador a qui volem.
   
 <img width="927" height="1001" alt="Captura desde 2025-11-18 14-15-43" src="https://github.com/user-attachments/assets/c9323674-ca16-47a8-8752-f35edeb63e8f" />
 
