@@ -67,7 +67,7 @@
 
 3A Hauries de veure una cosa similar a aquesta. 
 
-<img width="861" height="969" alt="imatge" src="https://github.com/user-attachments/assets/b45fc63a-eb85-4134-9bb1-e9b817388f07" />
+<img width="861" height="700" alt="imatge" src="https://github.com/user-attachments/assets/b45fc63a-eb85-4134-9bb1-e9b817388f07" />
 
 En la linea que posa "ServerName" o en la de "ServerAlias" (preferiblement en la primera) cambies el 'www.domini.local' a la IP guardada previaent **la IP de on obres el terminal/la maquina Virtual**
 
@@ -83,4 +83,6 @@ En l'apartat "trusted_domains" poses ('www.domini.local', 'IP' de la maquina DES
 
 ---
 
-I ja finalment pots posar la Ip en cualsevol navegador i entrar a la paguina (de inici) de NextCloud.**pots registrarte de nou o posar la teva altre compte**
+I ja finalment pots posar la Ip en cualsevol navegador i entrar a la paguina (de inici) de NextCloud.
+
+**pots registrarte de nou o posar la teva altre compte**
