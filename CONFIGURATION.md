@@ -41,7 +41,7 @@
 
  ---
    # Administració d’arxius #
-  1 assignacio de permisos (rols) en la carpeta compartida. "al assignar-hoen la carpeta ens permet configuraro 1 egada només, si despres volls pots cambiar els permisos de cert arxiu o cert usuari.
+  1 assignacio de permisos (rols) en la carpeta compartida. "al assignar-ho en la carpeta ens permet configuraro 1 vegada només, si despres vols pots cambiar els permisos de cert arxiu o cert usuari.
   
   ---
 <img width="1787" height="967" alt="Captura desde 2025-11-25 14-22-15" src="https://github.com/user-attachments/assets/ba7cefce-a74b-4c2d-bfb6-08543ef7a78a" />
